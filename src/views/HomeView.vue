@@ -13,6 +13,7 @@
             Skip past the endless waitlists and concierge calls that turn up empty handed. With Atlas,
             you have a seat at the table at today's most desirable restaurants.
           </p>
+          <!-- <img src="../assets/images/horsecard.JPG" alt="a red horse with wings"/> -->
         </section>
         <section class="writeblock">
           <aside>Dedicated reservations¹</aside>
@@ -31,16 +32,16 @@
         </section>
         <div class="images3">
           <div class="bottle">
-            <img src="../assets/images/horses.JPG"
+            <!-- <img src="../assets/images/horses.JPG" -->
               alt="a served table with a plate of noodles with a knife and fork, an empty class cup and an opened bottle" />
             <p>HORSES, LA, ON ATLAS SUPPER CLUB.</p>
           </div>
           <div>
-            <img src="../assets/images/felix.jpg" alt="" />
+            <!-- <img src="../assets/images/felix.jpg" alt="" /> -->
             <p>FELIX TRATTORIA, LA, ON ATLAS SUPPER CLUB.</p>
           </div>
           <div>
-            <img src="../assets/images/cucina.jpg" alt="" />
+            <!-- <img src="../assets/images/cucina.jpg" alt="" /> -->
             <p>CUCINA ALBA, NYC, ON ATLAS SUPPER CLUB.</p>
           </div>
         </div>

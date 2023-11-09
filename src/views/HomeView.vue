@@ -25,7 +25,6 @@
           Skip past the endless waitlists and concierge calls that turn up empty handed. With Atlas,
           you have a seat at the table at today's most desirable restaurants.
         </p>
-        <img src="../assets/images/horsecard3.JPG" alt="a red horse with wings" />
       </section>
       <section class="writeblock">
         <aside>Dedicated reservations¹</aside>

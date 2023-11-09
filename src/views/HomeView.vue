@@ -14,6 +14,7 @@
             you have a seat at the table at today's most desirable restaurants.
           </p>
           <!-- <img src="../assets/images/horsecard.JPG" alt="a red horse with wings"/> -->
+          <img src="../assets/capture3.JPG" alt="">
         </section>
         <section class="writeblock">
           <aside>Dedicated reservations¹</aside>

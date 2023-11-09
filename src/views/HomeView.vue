@@ -1,4 +1,7 @@
 <script setup>
+  // import horse from "../assets/images/felix.jpg"
+  import horse from "../assets/images/horsecard.JPG";
+
 
 </script>
 
@@ -13,8 +16,8 @@
             Skip past the endless waitlists and concierge calls that turn up empty handed. With Atlas,
             you have a seat at the table at today's most desirable restaurants.
           </p>
-          <!-- <img src="../assets/images/horsecard.JPG" alt="a red horse with wings"/> -->
-          <img src="../assets/capture3.JPG" alt="">
+          <img :src="horse" alt="a red horse with wings"/>
+          <!-- <img :src="require('@/assets/image.jpg')" alt="Webpack Handled Image"> -->
         </section>
         <section class="writeblock">
           <aside>Dedicated reservations¹</aside>
@@ -33,8 +36,7 @@
         </section>
         <div class="images3">
           <div class="bottle">
-            <!-- <img src="../assets/images/horses.JPG" -->
-              alt="a served table with a plate of noodles with a knife and fork, an empty class cup and an opened bottle" />
+            <!-- <img src="../assets/images/horses.JPG" alt="a served table with a plate of noodles with a knife and fork, an empty class cup and an opened bottle" /> -->
             <p>HORSES, LA, ON ATLAS SUPPER CLUB.</p>
           </div>
           <div>

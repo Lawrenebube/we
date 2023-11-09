@@ -3,6 +3,9 @@
 </script>
 
 <template>
+    <video autoplay muted>
+          <source src="../assets/atlas-card.webm" type="video/mp4" />
+        </video>
       <footer>
       <div>
         <ol>

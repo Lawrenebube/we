@@ -4,19 +4,7 @@
 
 <template>
   <main>
-    <section class="hero">
-      <h1>No Limits</h1>
-      <video autoplay muted>
-        <source src="../assets/atlas-card.webm" type="video/mp4" />
-      </video>
-      <article>
-        This is your friend who scores the hottest tables in town, your passport to weekend
-        getaways, and your guest pass to must-see events. All brilliantly brought together in a card
-        and app of uncompromising beauty and utility. This is the beginning of a journey to a world
-        with no limits.
-      </article>
-      <p>This is Atlas.</p>
-    </section>
+   
     <div class="blackSection1">
         <section class="section1">
           <h2>Taste Maker</h2>
@@ -25,7 +13,7 @@
             Skip past the endless waitlists and concierge calls that turn up empty handed. With Atlas,
             you have a seat at the table at today's most desirable restaurants.
           </p>
-          <img src="../assets/images/horsecard3.JPG" alt="a red horse with wings" />
+          <img src="../assets/images/horsecard3.JPG" alt="a red horse with wings"/>
         </section>
         <section class="writeblock">
           <aside>Dedicated reservations¹</aside>
